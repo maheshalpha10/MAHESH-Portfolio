@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Web Development internship",
+    "organisation": "NAVODITA INFOTECH",
+    "startDate": "April, 2024",
+    "endDate": "to May ,2024",
+    "location": " pune India",
+    "experiences": [
+      "Worked on Web development project",
+      "Worked with the Navodita infotech Team"
+    ],
+    "imageSrc": "company/google.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Physics Wallah Campus Ambassador Internship Program ",
+    "organisation": "Physics Wallah",
+    "startDate": "May, 2024",
+    "endDate": "to july, 2024",
+    "location": "INDIA",
+    "experiences": [
+      "India’s Biggest Campus Ambassador Program By Physics Wallah",
+      "Worked with the Physics Wallah Team"
+    ],
+    "imageSrc": "company/microsoft.jpg"
+  },
+  {
+    "id": 3,
+    "role": "Software Engineering Job Simulation",
+    "organisation": "JP Morgan",
+    "startDate": "Jan, 2024",
+    "endDate": "",
+    "location": "United States (Headquarters)",
+    "experiences": [
+      "understand the  stock task and enhance the skill to compleate the task",
+      ""
+    ],
+    "imageSrc": "company/netflix.jpg"
+  }
+]
