@@ -48,7 +48,7 @@ const Contact = () => {
             <p>We are avaliable 24X7</p>
             <ul>
               <li>
-                <img src={mail_icon} alt="" /> mahheshjnv@gmail.com
+                <img src={mail_icon} alt="" /> mahheshjnv266@gmail.com
               </li>
               <li>
                 <img src={phone_icon} alt="" /> +916390533183
