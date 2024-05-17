@@ -11,7 +11,7 @@ const Home = () => {
         "Welcome to My Profile",
         "My Name is MAHESH SINGH YADAV",
         "I'm Full Stack Developer",
-        "COMPETETIVE PROGRAMMER",
+        "COMPETITIVE PROGRAMMER",
       ],
       typeSpeed: 50,
       backSpeed: 50,
